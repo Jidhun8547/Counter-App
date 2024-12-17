@@ -1,0 +1,2 @@
+store using 'configureStore()' to create rudex store.use provider component from react rudex to make the store available to the react app
+
